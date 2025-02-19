@@ -1,3 +1,5 @@
+![image alt](https://github.com/Tigresitop/Proyecto-Final---Estructura-de-Datos/blob/c54cba920c12ee72e65ae6b24eb12f60a56becc6/images/logo-ups.jpg)
+
 # Proyecto Final
 
 - Carrera: Computación.
@@ -5,8 +7,11 @@
 - Fecha de entrega: 18/02/2025.
 - Docente: Ing. Pablo Torres.
 Integrantes:
+
 ◦ David Larriva [dlarrivac@est.ups.edu.ec](mailto:dlarriva@est.ups.edu.ec)
+
 ◦ John Tigre [jtigrec4@est.ups.edu.ec](mailto:jtigrec4@est.ups.edu.ec)
+
 ◦ Patricio Mora [pmashinkiash@est.ups.edu.ec](mailto:pmashinkiash@est.ups.edu.ec )
 
 ## Descripción del Problema
